@@ -15,5 +15,12 @@ public class StudyController {
 		return "study";
 	}
 	
+	@RequestMapping(value = { "test.do" })
+	public String test(ModelMap model) throws Exception {
+		System.out.println("test::::");
+		
+		return "test";
+	}
+	
 }
 
