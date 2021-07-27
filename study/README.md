@@ -30,7 +30,6 @@ this is a code
  
  ***
 ## 코드블럭
-
 <pre>
 <code>
 public class BootSpringBootApplication {
